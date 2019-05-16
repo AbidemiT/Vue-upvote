@@ -2,16 +2,19 @@ body {
   margin: 0;
   padding: 0;
 }
-.section {
+#app{
   width: 100%;
 }
 
-article {
+.section {
   width: 70%;
   margin: 0 auto;
+}
+
+article {
   border: 1px solid rgb(78, 74, 74);
   border-radius: 5px;
-  padding: 20px;
+  padding: 10px;
   margin-bottom: 10px;
 }
 
